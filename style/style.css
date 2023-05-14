@@ -1,0 +1,67 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.summer-headphones {
+    position: absolute;
+    width: 366px;
+    height: 222px;
+    background: linear-gradient(109.82deg, #A1D2FF 0.54%, rgba(0, 224, 198, 0.9) 100%);
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-text {
+    position: absolute;
+    left: 20px;
+    top: 12px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 160.5%;
+    letter-spacing: 0.005em;
+    color: #016170;
+}
+
+.link {
+    position: absolute;
+    left: 20px;
+    top: 167px;
+}
+
+p a {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    color: #016170;
+    text-decoration: none;
+}
+
+div .beats {
+    position: absolute;
+    left: 210px;
+    top: 88px;
+    z-index: 0;
+}
+
+img .beats {
+    width: 97px;
+    height: 122.66px;
+}
+
+div .jvc {
+    position: absolute;
+    left: 272px;
+    top: 54px;
+}
+
+img .jvc {
+    width: 109px;
+    height: 195.6px;
+}
